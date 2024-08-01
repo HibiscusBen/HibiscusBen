@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @HibiscusBen
+# 👋 Hi, I’m @HibiscusBen
+
 - 👀 I’m interested in software development and video games
 - 🌱 I’m currently learning Java development
 - 📫 How to reach me: Discord @hibiscusben
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I worked with horses for a while after dropping out of university
 
 <!---
 HibiscusBen/HibiscusBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
